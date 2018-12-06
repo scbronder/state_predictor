@@ -1,0 +1,439 @@
+GEO.id,GEO.id2,GEO.display-label,HD01_VD02,HD02_VD02,HD01_VD03,HD02_VD03,HD01_VD04,HD02_VD04
+Id,Id2,Geography,Estimate; Median age -- - Total:,Margin of Error; Median age -- - Total:,Estimate; Median age -- - Male,Margin of Error; Median age -- - Male,Estimate; Median age -- - Female,Margin of Error; Median age -- - Female
+5001500US0101,0101,"Congressional District 1 (115th Congress), Alabama",39.6,0.4,38.3,0.6,41.0,0.7
+5001500US0102,0102,"Congressional District 2 (115th Congress), Alabama",38.2,0.6,36.7,0.6,40.1,0.6
+5001500US0103,0103,"Congressional District 3 (115th Congress), Alabama",38.3,0.5,36.6,0.6,39.8,0.7
+5001500US0104,0104,"Congressional District 4 (115th Congress), Alabama",40.7,0.4,39.7,0.7,42.0,0.7
+5001500US0105,0105,"Congressional District 5 (115th Congress), Alabama",40.1,0.4,38.4,0.5,41.8,0.4
+5001500US0106,0106,"Congressional District 6 (115th Congress), Alabama",39.0,0.5,37.8,0.7,40.2,0.8
+5001500US0107,0107,"Congressional District 7 (115th Congress), Alabama",36.5,0.6,34.2,0.7,38.3,0.6
+5001500US0200,0200,"Congressional District (at Large) (115th Congress), Alaska",33.5,0.3,32.8,0.3,34.3,0.5
+5001500US0401,0401,"Congressional District 1 (115th Congress), Arizona",37.5,0.6,36.6,0.8,38.4,0.6
+5001500US0402,0402,"Congressional District 2 (115th Congress), Arizona",40.8,0.9,39.0,0.8,43.0,1.1
+5001500US0403,0403,"Congressional District 3 (115th Congress), Arizona",32.7,0.8,31.0,0.8,34.2,0.8
+5001500US0404,0404,"Congressional District 4 (115th Congress), Arizona",47.9,0.8,45.7,1.1,50.0,0.6
+5001500US0405,0405,"Congressional District 5 (115th Congress), Arizona",37.5,0.9,36.6,1.0,38.4,1.1
+5001500US0406,0406,"Congressional District 6 (115th Congress), Arizona",42.3,1.0,40.5,1.2,44.4,1.1
+5001500US0407,0407,"Congressional District 7 (115th Congress), Arizona",29.7,0.5,29.7,0.6,29.7,0.7
+5001500US0408,0408,"Congressional District 8 (115th Congress), Arizona",42.6,0.9,40.8,1.1,44.1,1.0
+5001500US0409,0409,"Congressional District 9 (115th Congress), Arizona",33.5,0.7,32.4,0.7,34.6,0.9
+5001500US0501,0501,"Congressional District 1 (115th Congress), Arkansas",39.9,0.5,38.0,0.6,41.9,0.6
+5001500US0502,0502,"Congressional District 2 (115th Congress), Arkansas",36.9,0.3,35.9,0.4,37.9,0.4
+5001500US0503,0503,"Congressional District 3 (115th Congress), Arkansas",35.3,0.3,34.5,0.3,36.4,0.6
+5001500US0504,0504,"Congressional District 4 (115th Congress), Arkansas",40.8,0.5,38.9,0.9,42.2,0.7
+5001500US0601,0601,"Congressional District 1 (115th Congress), California",43.0,0.6,40.9,0.5,45.1,0.6
+5001500US0602,0602,"Congressional District 2 (115th Congress), California",44.1,0.5,42.8,0.8,45.3,0.5
+5001500US0603,0603,"Congressional District 3 (115th Congress), California",35.0,0.5,34.2,0.5,36.0,0.7
+5001500US0604,0604,"Congressional District 4 (115th Congress), California",44.2,0.5,42.5,0.6,45.9,0.5
+5001500US0605,0605,"Congressional District 5 (115th Congress), California",40.4,0.6,38.8,0.6,42.4,0.9
+5001500US0606,0606,"Congressional District 6 (115th Congress), California",33.9,0.6,32.7,0.7,35.0,0.6
+5001500US0607,0607,"Congressional District 7 (115th Congress), California",38.5,0.6,37.2,0.7,40.0,1.0
+5001500US0608,0608,"Congressional District 8 (115th Congress), California",34.5,0.9,32.9,1.0,35.6,1.0
+5001500US0609,0609,"Congressional District 9 (115th Congress), California",35.1,0.5,34.1,0.7,35.9,0.7
+5001500US0610,0610,"Congressional District 10 (115th Congress), California",34.4,0.4,33.4,0.5,35.5,0.6
+5001500US0611,0611,"Congressional District 11 (115th Congress), California",39.7,0.6,38.7,0.8,40.8,0.6
+5001500US0612,0612,"Congressional District 12 (115th Congress), California",37.8,0.3,37.7,0.4,37.8,0.5
+5001500US0613,0613,"Congressional District 13 (115th Congress), California",37.0,0.6,36.3,0.7,37.7,0.8
+5001500US0614,0614,"Congressional District 14 (115th Congress), California",39.6,0.5,38.2,0.6,41.0,0.7
+5001500US0615,0615,"Congressional District 15 (115th Congress), California",38.6,0.7,36.9,0.7,39.9,0.7
+5001500US0616,0616,"Congressional District 16 (115th Congress), California",30.2,0.4,29.2,0.7,30.9,0.5
+5001500US0617,0617,"Congressional District 17 (115th Congress), California",36.0,0.5,35.7,0.4,36.5,0.6
+5001500US0618,0618,"Congressional District 18 (115th Congress), California",40.2,0.6,38.6,0.7,42.1,0.7
+5001500US0619,0619,"Congressional District 19 (115th Congress), California",36.0,0.6,35.0,0.9,37.0,0.7
+5001500US0620,0620,"Congressional District 20 (115th Congress), California",34.6,0.2,33.6,0.3,35.7,0.3
+5001500US0621,0621,"Congressional District 21 (115th Congress), California",29.3,0.7,29.6,0.7,28.9,0.9
+5001500US0622,0622,"Congressional District 22 (115th Congress), California",32.9,0.6,32.1,0.7,33.7,0.8
+5001500US0623,0623,"Congressional District 23 (115th Congress), California",33.8,0.6,33.0,0.7,34.8,0.9
+5001500US0624,0624,"Congressional District 24 (115th Congress), California",35.8,0.2,34.6,0.2,37.1,0.4
+5001500US0625,0625,"Congressional District 25 (115th Congress), California",36.3,0.8,34.9,1.0,38.1,1.1
+5001500US0626,0626,"Congressional District 26 (115th Congress), California",37.4,0.5,35.8,0.5,39.2,0.7
+5001500US0627,0627,"Congressional District 27 (115th Congress), California",42.2,0.7,39.9,0.9,44.0,1.0
+5001500US0628,0628,"Congressional District 28 (115th Congress), California",39.7,0.6,39.2,0.9,40.3,0.8
+5001500US0629,0629,"Congressional District 29 (115th Congress), California",34.4,0.5,34.1,0.6,34.8,0.6
+5001500US0630,0630,"Congressional District 30 (115th Congress), California",39.9,0.9,38.1,1.3,41.3,1.2
+5001500US0631,0631,"Congressional District 31 (115th Congress), California",32.3,0.6,30.8,0.7,33.5,0.8
+5001500US0632,0632,"Congressional District 32 (115th Congress), California",36.1,0.9,35.1,0.8,37.6,1.1
+5001500US0633,0633,"Congressional District 33 (115th Congress), California",41.7,0.9,41.5,1.2,41.9,1.2
+5001500US0634,0634,"Congressional District 34 (115th Congress), California",34.5,0.6,33.8,0.7,35.4,0.7
+5001500US0635,0635,"Congressional District 35 (115th Congress), California",32.3,0.6,31.3,0.8,33.3,0.7
+5001500US0636,0636,"Congressional District 36 (115th Congress), California",41.1,1.0,40.6,1.2,41.8,1.4
+5001500US0637,0637,"Congressional District 37 (115th Congress), California",35.7,0.6,34.2,0.8,37.8,0.8
+5001500US0638,0638,"Congressional District 38 (115th Congress), California",37.0,0.7,35.5,0.9,38.1,0.7
+5001500US0639,0639,"Congressional District 39 (115th Congress), California",38.2,0.9,37.1,1.0,39.3,0.9
+5001500US0640,0640,"Congressional District 40 (115th Congress), California",30.6,0.5,29.9,0.8,31.4,0.9
+5001500US0641,0641,"Congressional District 41 (115th Congress), California",30.9,0.6,30.5,0.5,31.5,1.0
+5001500US0642,0642,"Congressional District 42 (115th Congress), California",35.2,0.6,33.9,0.9,36.8,0.9
+5001500US0643,0643,"Congressional District 43 (115th Congress), California",35.2,0.7,33.9,0.9,36.4,0.9
+5001500US0644,0644,"Congressional District 44 (115th Congress), California",32.3,0.6,31.4,0.8,33.2,0.8
+5001500US0645,0645,"Congressional District 45 (115th Congress), California",38.9,0.7,36.9,0.7,40.8,0.9
+5001500US0646,0646,"Congressional District 46 (115th Congress), California",32.1,0.5,32.1,0.7,32.1,0.7
+5001500US0647,0647,"Congressional District 47 (115th Congress), California",36.4,0.8,34.9,1.0,37.7,0.9
+5001500US0648,0648,"Congressional District 48 (115th Congress), California",41.8,1.0,40.6,1.0,43.3,1.2
+5001500US0649,0649,"Congressional District 49 (115th Congress), California",37.2,1.1,35.3,1.1,39.2,1.2
+5001500US0650,0650,"Congressional District 50 (115th Congress), California",36.9,0.8,36.2,1.1,37.7,1.1
+5001500US0651,0651,"Congressional District 51 (115th Congress), California",32.5,0.6,30.9,0.6,34.4,0.7
+5001500US0652,0652,"Congressional District 52 (115th Congress), California",36.6,0.6,35.3,0.7,38.6,0.8
+5001500US0653,0653,"Congressional District 53 (115th Congress), California",35.3,0.6,34.4,0.8,36.5,0.9
+5001500US0801,0801,"Congressional District 1 (115th Congress), Colorado",35.0,0.2,34.6,0.3,35.5,0.4
+5001500US0802,0802,"Congressional District 2 (115th Congress), Colorado",37.7,0.5,36.1,0.5,39.3,0.5
+5001500US0803,0803,"Congressional District 3 (115th Congress), Colorado",40.2,0.6,38.7,0.7,41.5,0.5
+5001500US0804,0804,"Congressional District 4 (115th Congress), Colorado",37.1,0.3,36.5,0.5,37.9,0.6
+5001500US0805,0805,"Congressional District 5 (115th Congress), Colorado",35.5,0.3,34.3,0.3,37.0,0.3
+5001500US0806,0806,"Congressional District 6 (115th Congress), Colorado",36.6,0.4,35.6,0.5,37.7,0.5
+5001500US0807,0807,"Congressional District 7 (115th Congress), Colorado",35.9,0.4,34.9,0.4,36.9,0.5
+5001500US0901,0901,"Congressional District 1 (115th Congress), Connecticut",40.2,0.5,38.3,0.8,41.6,0.9
+5001500US0902,0902,"Congressional District 2 (115th Congress), Connecticut",41.9,0.6,40.2,0.7,43.8,0.7
+5001500US0903,0903,"Congressional District 3 (115th Congress), Connecticut",39.5,0.7,37.1,0.8,41.9,1.2
+5001500US0904,0904,"Congressional District 4 (115th Congress), Connecticut",39.8,0.5,38.1,0.8,40.9,0.7
+5001500US0905,0905,"Congressional District 5 (115th Congress), Connecticut",43.2,0.9,41.3,1.0,45.0,0.8
+5001500US1000,1000,"Congressional District (at Large) (115th Congress), Delaware",40.6,0.4,39.1,0.4,42.1,0.4
+5001500US1198,1198,"Delegate District (at Large) (115th Congress), District of Columbia",33.9,0.2,33.8,0.2,34.0,0.2
+5001500US1201,1201,"Congressional District 1 (115th Congress), Florida",38.7,0.4,37.0,0.5,40.5,0.5
+5001500US1202,1202,"Congressional District 2 (115th Congress), Florida",43.2,0.6,41.2,0.7,44.8,0.7
+5001500US1203,1203,"Congressional District 3 (115th Congress), Florida",37.8,0.6,35.9,0.7,39.2,0.7
+5001500US1204,1204,"Congressional District 4 (115th Congress), Florida",39.8,0.8,38.3,0.7,40.9,0.8
+5001500US1205,1205,"Congressional District 5 (115th Congress), Florida",33.0,0.6,31.8,0.7,34.6,0.9
+5001500US1206,1206,"Congressional District 6 (115th Congress), Florida",47.5,0.5,45.5,0.5,49.4,0.6
+5001500US1207,1207,"Congressional District 7 (115th Congress), Florida",36.5,0.6,35.1,0.5,38.2,0.8
+5001500US1208,1208,"Congressional District 8 (115th Congress), Florida",48.1,0.3,46.8,0.6,49.5,0.5
+5001500US1209,1209,"Congressional District 9 (115th Congress), Florida",37.4,0.6,36.1,0.9,38.5,0.9
+5001500US1210,1210,"Congressional District 10 (115th Congress), Florida",35.5,0.5,34.9,0.6,36.0,0.7
+5001500US1211,1211,"Congressional District 11 (115th Congress), Florida",55.6,0.5,53.8,0.8,57.0,0.6
+5001500US1212,1212,"Congressional District 12 (115th Congress), Florida",46.6,0.4,45.3,0.4,48.4,0.6
+5001500US1213,1213,"Congressional District 13 (115th Congress), Florida",46.5,0.4,45.3,0.6,47.6,0.5
+5001500US1214,1214,"Congressional District 14 (115th Congress), Florida",36.2,0.6,35.3,0.7,36.9,0.6
+5001500US1215,1215,"Congressional District 15 (115th Congress), Florida",38.4,0.7,37.3,1.0,39.3,1.1
+5001500US1216,1216,"Congressional District 16 (115th Congress), Florida",47.0,0.6,45.1,0.9,49.0,0.8
+5001500US1217,1217,"Congressional District 17 (115th Congress), Florida",51.3,0.8,49.8,0.8,53.0,1.0
+5001500US1218,1218,"Congressional District 18 (115th Congress), Florida",47.1,0.6,45.5,0.9,48.5,0.8
+5001500US1219,1219,"Congressional District 19 (115th Congress), Florida",50.2,0.6,48.6,0.6,51.7,0.7
+5001500US1220,1220,"Congressional District 20 (115th Congress), Florida",36.4,0.8,35.2,0.8,37.9,0.9
+5001500US1221,1221,"Congressional District 21 (115th Congress), Florida",45.4,0.6,43.6,1.1,47.1,0.8
+5001500US1222,1222,"Congressional District 22 (115th Congress), Florida",45.2,0.7,44.3,1.4,45.8,0.9
+5001500US1223,1223,"Congressional District 23 (115th Congress), Florida",41.6,0.9,39.6,0.9,43.3,1.0
+5001500US1224,1224,"Congressional District 24 (115th Congress), Florida",37.1,0.7,36.0,0.7,38.3,1.1
+5001500US1225,1225,"Congressional District 25 (115th Congress), Florida",42.5,0.7,40.7,1.0,44.2,0.8
+5001500US1226,1226,"Congressional District 26 (115th Congress), Florida",38.4,0.8,36.6,0.8,40.0,0.9
+5001500US1227,1227,"Congressional District 27 (115th Congress), Florida",41.9,0.8,40.1,0.8,43.9,0.9
+5001500US1301,1301,"Congressional District 1 (115th Congress), Georgia",35.8,0.4,34.1,0.6,37.4,0.7
+5001500US1302,1302,"Congressional District 2 (115th Congress), Georgia",36.1,0.5,34.3,0.8,37.8,0.8
+5001500US1303,1303,"Congressional District 3 (115th Congress), Georgia",38.3,0.5,36.7,0.8,39.6,0.7
+5001500US1304,1304,"Congressional District 4 (115th Congress), Georgia",35.3,0.5,33.6,1.0,36.6,0.8
+5001500US1305,1305,"Congressional District 5 (115th Congress), Georgia",33.8,0.7,33.3,0.8,34.4,0.8
+5001500US1306,1306,"Congressional District 6 (115th Congress), Georgia",38.4,0.6,37.5,1.1,38.9,0.8
+5001500US1307,1307,"Congressional District 7 (115th Congress), Georgia",36.5,0.4,35.4,0.8,37.4,0.6
+5001500US1308,1308,"Congressional District 8 (115th Congress), Georgia",36.7,0.5,35.5,0.5,37.8,0.5
+5001500US1309,1309,"Congressional District 9 (115th Congress), Georgia",40.8,0.5,38.9,0.9,42.1,0.6
+5001500US1310,1310,"Congressional District 10 (115th Congress), Georgia",36.3,0.6,34.9,0.8,37.4,0.7
+5001500US1311,1311,"Congressional District 11 (115th Congress), Georgia",36.3,0.5,35.1,0.6,37.6,0.7
+5001500US1312,1312,"Congressional District 12 (115th Congress), Georgia",35.7,0.4,34.2,0.7,36.8,0.5
+5001500US1313,1313,"Congressional District 13 (115th Congress), Georgia",35.2,0.8,33.3,1.4,36.8,1.2
+5001500US1314,1314,"Congressional District 14 (115th Congress), Georgia",38.1,0.4,36.5,0.5,39.7,0.8
+5001500US1501,1501,"Congressional District 1 (115th Congress), Hawaii",39.2,0.5,37.6,0.7,40.8,0.8
+5001500US1502,1502,"Congressional District 2 (115th Congress), Hawaii",38.5,0.6,36.9,0.7,40.2,0.9
+5001500US1601,1601,"Congressional District 1 (115th Congress), Idaho",38.0,0.5,36.8,0.5,39.2,0.7
+5001500US1602,1602,"Congressional District 2 (115th Congress), Idaho",34.0,0.5,33.4,0.5,34.6,0.8
+5001500US1701,1701,"Congressional District 1 (115th Congress), Illinois",39.4,1.1,37.1,1.5,41.2,1.0
+5001500US1702,1702,"Congressional District 2 (115th Congress), Illinois",38.0,0.9,35.8,1.6,39.5,1.0
+5001500US1703,1703,"Congressional District 3 (115th Congress), Illinois",37.7,0.7,36.4,0.9,39.1,1.0
+5001500US1704,1704,"Congressional District 4 (115th Congress), Illinois",33.2,0.5,32.8,0.7,33.6,0.6
+5001500US1705,1705,"Congressional District 5 (115th Congress), Illinois",35.0,0.6,34.4,0.7,35.6,0.7
+5001500US1706,1706,"Congressional District 6 (115th Congress), Illinois",40.5,0.9,39.1,0.8,42.1,1.3
+5001500US1707,1707,"Congressional District 7 (115th Congress), Illinois",34.5,0.6,33.1,0.9,35.7,0.8
+5001500US1708,1708,"Congressional District 8 (115th Congress), Illinois",37.3,0.7,36.3,1.0,38.2,0.9
+5001500US1709,1709,"Congressional District 9 (115th Congress), Illinois",40.1,0.7,39.5,1.0,40.7,0.9
+5001500US1710,1710,"Congressional District 10 (115th Congress), Illinois",38.2,0.5,36.3,0.5,40.3,0.8
+5001500US1711,1711,"Congressional District 11 (115th Congress), Illinois",36.1,0.6,35.6,0.8,36.6,0.7
+5001500US1712,1712,"Congressional District 12 (115th Congress), Illinois",39.4,0.5,37.9,0.7,41.3,0.6
+5001500US1713,1713,"Congressional District 13 (115th Congress), Illinois",36.9,0.6,35.4,0.5,38.4,0.7
+5001500US1714,1714,"Congressional District 14 (115th Congress), Illinois",38.9,0.8,37.2,0.9,40.4,0.6
+5001500US1715,1715,"Congressional District 15 (115th Congress), Illinois",40.5,0.4,39.3,0.4,41.8,0.5
+5001500US1716,1716,"Congressional District 16 (115th Congress), Illinois",41.0,0.6,39.6,0.8,42.9,0.8
+5001500US1717,1717,"Congressional District 17 (115th Congress), Illinois",40.2,0.6,38.5,0.6,41.7,0.7
+5001500US1718,1718,"Congressional District 18 (115th Congress), Illinois",40.6,0.5,39.6,0.5,41.9,0.7
+5001500US1801,1801,"Congressional District 1 (115th Congress), Indiana",38.7,0.4,37.1,0.5,40.2,0.5
+5001500US1802,1802,"Congressional District 2 (115th Congress), Indiana",38.0,0.5,36.7,0.5,39.1,0.5
+5001500US1803,1803,"Congressional District 3 (115th Congress), Indiana",37.2,0.3,35.7,0.4,38.6,0.4
+5001500US1804,1804,"Congressional District 4 (115th Congress), Indiana",36.6,0.4,34.9,0.5,38.5,0.6
+5001500US1805,1805,"Congressional District 5 (115th Congress), Indiana",37.9,0.5,36.9,0.6,38.6,0.6
+5001500US1806,1806,"Congressional District 6 (115th Congress), Indiana",40.1,0.3,39.0,0.5,41.6,0.5
+5001500US1807,1807,"Congressional District 7 (115th Congress), Indiana",33.8,0.4,32.4,0.6,34.9,0.4
+5001500US1808,1808,"Congressional District 8 (115th Congress), Indiana",39.4,0.4,37.8,0.6,41.0,0.6
+5001500US1809,1809,"Congressional District 9 (115th Congress), Indiana",38.0,0.4,36.5,0.7,39.3,0.5
+5001500US1901,1901,"Congressional District 1 (115th Congress), Iowa",38.8,0.3,37.5,0.4,40.2,0.4
+5001500US1902,1902,"Congressional District 2 (115th Congress), Iowa",38.0,0.4,36.7,0.4,39.3,0.5
+5001500US1903,1903,"Congressional District 3 (115th Congress), Iowa",36.9,0.3,35.9,0.3,37.8,0.3
+5001500US1904,1904,"Congressional District 4 (115th Congress), Iowa",39.1,0.4,37.5,0.4,41.0,0.5
+5001500US2001,2001,"Congressional District 1 (115th Congress), Kansas",35.4,0.4,34.2,0.5,36.6,0.4
+5001500US2002,2002,"Congressional District 2 (115th Congress), Kansas",37.5,0.3,36.0,0.4,39.6,0.7
+5001500US2003,2003,"Congressional District 3 (115th Congress), Kansas",36.8,0.3,35.7,0.2,37.7,0.3
+5001500US2004,2004,"Congressional District 4 (115th Congress), Kansas",36.3,0.3,35.2,0.3,37.6,0.5
+5001500US2101,2101,"Congressional District 1 (115th Congress), Kentucky",40.2,0.5,38.7,0.7,42.0,0.8
+5001500US2102,2102,"Congressional District 2 (115th Congress), Kentucky",38.4,0.4,37.6,0.5,39.3,0.4
+5001500US2103,2103,"Congressional District 3 (115th Congress), Kentucky",38.2,0.3,36.6,0.4,40.2,0.4
+5001500US2104,2104,"Congressional District 4 (115th Congress), Kentucky",38.5,0.4,37.6,0.4,39.5,0.5
+5001500US2105,2105,"Congressional District 5 (115th Congress), Kentucky",41.0,0.5,39.3,0.5,42.7,0.6
+5001500US2106,2106,"Congressional District 6 (115th Congress), Kentucky",36.7,0.4,35.5,0.4,37.8,0.5
+5001500US2201,2201,"Congressional District 1 (115th Congress), Louisiana",38.4,0.6,37.0,0.7,39.7,0.7
+5001500US2202,2202,"Congressional District 2 (115th Congress), Louisiana",35.9,0.4,35.0,0.5,36.9,0.6
+5001500US2203,2203,"Congressional District 3 (115th Congress), Louisiana",36.0,0.3,34.8,0.5,36.9,0.4
+5001500US2204,2204,"Congressional District 4 (115th Congress), Louisiana",36.7,0.3,35.2,0.5,38.4,0.6
+5001500US2205,2205,"Congressional District 5 (115th Congress), Louisiana",37.4,0.5,36.3,0.5,38.6,0.7
+5001500US2206,2206,"Congressional District 6 (115th Congress), Louisiana",35.2,0.4,33.7,0.4,36.6,0.9
+5001500US2301,2301,"Congressional District 1 (115th Congress), Maine",44.3,0.3,42.7,0.6,45.6,0.3
+5001500US2302,2302,"Congressional District 2 (115th Congress), Maine",44.7,0.3,43.6,0.5,45.6,0.3
+5001500US2401,2401,"Congressional District 1 (115th Congress), Maryland",42.5,0.5,40.6,0.7,44.3,0.6
+5001500US2402,2402,"Congressional District 2 (115th Congress), Maryland",36.2,0.6,35.3,0.8,37.0,0.7
+5001500US2403,2403,"Congressional District 3 (115th Congress), Maryland",38.2,0.6,36.2,0.8,40.0,0.9
+5001500US2404,2404,"Congressional District 4 (115th Congress), Maryland",36.8,0.4,35.3,0.6,38.2,0.5
+5001500US2405,2405,"Congressional District 5 (115th Congress), Maryland",38.3,0.5,36.7,0.6,39.8,0.6
+5001500US2406,2406,"Congressional District 6 (115th Congress), Maryland",38.9,0.5,36.9,0.7,40.5,0.6
+5001500US2407,2407,"Congressional District 7 (115th Congress), Maryland",37.7,0.6,36.4,0.6,39.0,0.9
+5001500US2408,2408,"Congressional District 8 (115th Congress), Maryland",40.4,0.6,39.0,0.9,41.5,0.7
+5001500US2501,2501,"Congressional District 1 (115th Congress), Massachusetts",40.9,0.5,39.5,0.7,42.5,0.9
+5001500US2502,2502,"Congressional District 2 (115th Congress), Massachusetts",39.0,0.6,37.6,0.6,40.1,0.6
+5001500US2503,2503,"Congressional District 3 (115th Congress), Massachusetts",39.3,1.0,37.3,1.0,40.8,0.9
+5001500US2504,2504,"Congressional District 4 (115th Congress), Massachusetts",41.4,0.7,40.0,0.8,42.3,0.6
+5001500US2505,2505,"Congressional District 5 (115th Congress), Massachusetts",39.4,0.6,38.2,1.0,40.6,0.8
+5001500US2506,2506,"Congressional District 6 (115th Congress), Massachusetts",42.8,0.6,41.1,1.0,44.4,0.7
+5001500US2507,2507,"Congressional District 7 (115th Congress), Massachusetts",31.8,0.4,31.2,0.5,32.4,0.5
+5001500US2508,2508,"Congressional District 8 (115th Congress), Massachusetts",39.3,0.7,37.4,0.8,40.9,1.0
+5001500US2509,2509,"Congressional District 9 (115th Congress), Massachusetts",45.5,0.6,43.5,0.9,46.9,0.8
+5001500US2601,2601,"Congressional District 1 (115th Congress), Michigan",46.4,0.2,45.0,0.3,48.2,0.4
+5001500US2602,2602,"Congressional District 2 (115th Congress), Michigan",36.8,0.5,35.8,0.5,37.6,0.6
+5001500US2603,2603,"Congressional District 3 (115th Congress), Michigan",37.2,0.5,36.1,0.4,38.4,0.6
+5001500US2604,2604,"Congressional District 4 (115th Congress), Michigan",41.4,0.5,40.0,0.5,42.8,0.6
+5001500US2605,2605,"Congressional District 5 (115th Congress), Michigan",41.0,0.4,38.9,0.5,42.7,0.7
+5001500US2606,2606,"Congressional District 6 (115th Congress), Michigan",38.8,0.3,37.4,0.4,40.0,0.4
+5001500US2607,2607,"Congressional District 7 (115th Congress), Michigan",41.9,0.4,40.6,0.5,43.2,0.6
+5001500US2608,2608,"Congressional District 8 (115th Congress), Michigan",38.1,0.5,36.9,0.6,39.3,0.7
+5001500US2609,2609,"Congressional District 9 (115th Congress), Michigan",40.5,0.9,38.3,1.0,42.5,1.0
+5001500US2610,2610,"Congressional District 10 (115th Congress), Michigan",43.6,0.7,42.2,0.7,44.9,0.5
+5001500US2611,2611,"Congressional District 11 (115th Congress), Michigan",41.5,0.7,40.5,0.9,42.2,0.9
+5001500US2612,2612,"Congressional District 12 (115th Congress), Michigan",35.3,0.6,33.8,0.6,36.9,0.8
+5001500US2613,2613,"Congressional District 13 (115th Congress), Michigan",36.3,0.9,34.6,1.0,37.7,1.0
+5001500US2614,2614,"Congressional District 14 (115th Congress), Michigan",37.7,0.9,35.8,0.9,39.9,1.0
+5001500US2701,2701,"Congressional District 1 (115th Congress), Minnesota",38.3,0.4,37.4,0.4,39.1,0.6
+5001500US2702,2702,"Congressional District 2 (115th Congress), Minnesota",37.7,0.4,36.8,0.4,38.7,0.5
+5001500US2703,2703,"Congressional District 3 (115th Congress), Minnesota",40.1,0.7,38.9,1.0,41.0,1.2
+5001500US2704,2704,"Congressional District 4 (115th Congress), Minnesota",36.0,0.3,34.7,0.3,37.1,0.4
+5001500US2705,2705,"Congressional District 5 (115th Congress), Minnesota",34.0,0.4,33.5,0.5,34.7,0.5
+5001500US2706,2706,"Congressional District 6 (115th Congress), Minnesota",37.1,0.4,36.4,0.5,37.7,0.4
+5001500US2707,2707,"Congressional District 7 (115th Congress), Minnesota",40.2,0.4,39.0,0.5,41.5,0.7
+5001500US2708,2708,"Congressional District 8 (115th Congress), Minnesota",43.4,0.3,42.0,0.4,44.8,0.3
+5001500US2801,2801,"Congressional District 1 (115th Congress), Mississippi",37.9,0.4,36.7,0.7,38.9,0.6
+5001500US2802,2802,"Congressional District 2 (115th Congress), Mississippi",36.2,0.6,34.5,0.9,37.5,0.6
+5001500US2803,2803,"Congressional District 3 (115th Congress), Mississippi",37.1,0.7,35.4,0.8,38.6,0.7
+5001500US2804,2804,"Congressional District 4 (115th Congress), Mississippi",37.5,0.5,36.3,0.7,38.5,0.9
+5001500US2901,2901,"Congressional District 1 (115th Congress), Missouri",35.5,0.4,34.0,0.6,37.0,0.6
+5001500US2902,2902,"Congressional District 2 (115th Congress), Missouri",43.2,0.8,40.9,1.0,44.8,0.7
+5001500US2903,2903,"Congressional District 3 (115th Congress), Missouri",38.7,0.5,37.9,0.5,39.7,0.7
+5001500US2904,2904,"Congressional District 4 (115th Congress), Missouri",36.6,0.4,35.0,0.4,38.4,0.8
+5001500US2905,2905,"Congressional District 5 (115th Congress), Missouri",37.1,0.4,35.9,0.5,38.3,0.7
+5001500US2906,2906,"Congressional District 6 (115th Congress), Missouri",38.7,0.5,37.7,0.5,39.8,0.7
+5001500US2907,2907,"Congressional District 7 (115th Congress), Missouri",37.7,0.4,36.2,0.4,39.1,0.8
+5001500US2908,2908,"Congressional District 8 (115th Congress), Missouri",40.8,0.5,39.5,0.7,42.1,0.7
+5001500US3000,3000,"Congressional District (at Large) (115th Congress), Montana",40.1,0.3,38.9,0.4,41.3,0.4
+5001500US3101,3101,"Congressional District 1 (115th Congress), Nebraska",35.4,0.3,34.4,0.4,36.5,0.5
+5001500US3102,3102,"Congressional District 2 (115th Congress), Nebraska",34.8,0.2,33.9,0.2,35.5,0.2
+5001500US3103,3103,"Congressional District 3 (115th Congress), Nebraska",39.8,0.4,39.2,0.5,40.5,0.7
+5001500US3201,3201,"Congressional District 1 (115th Congress), Nevada",36.0,0.8,35.7,0.8,36.3,0.9
+5001500US3202,3202,"Congressional District 2 (115th Congress), Nevada",39.5,0.4,38.9,0.5,40.1,0.5
+5001500US3203,3203,"Congressional District 3 (115th Congress), Nevada",39.0,0.9,37.7,0.8,40.2,1.0
+5001500US3204,3204,"Congressional District 4 (115th Congress), Nevada",37.0,0.7,36.4,0.7,37.4,0.9
+5001500US3301,3301,"Congressional District 1 (115th Congress), New Hampshire",41.9,0.6,40.5,0.8,43.4,0.6
+5001500US3302,3302,"Congressional District 2 (115th Congress), New Hampshire",43.6,0.6,42.3,0.7,45.0,0.7
+5001500US3401,3401,"Congressional District 1 (115th Congress), New Jersey",38.8,0.4,37.0,0.4,40.4,0.4
+5001500US3402,3402,"Congressional District 2 (115th Congress), New Jersey",41.4,0.4,39.7,0.6,43.5,0.7
+5001500US3403,3403,"Congressional District 3 (115th Congress), New Jersey",43.3,0.6,41.0,0.7,45.3,0.5
+5001500US3404,3404,"Congressional District 4 (115th Congress), New Jersey",41.3,0.8,39.2,0.9,43.3,1.0
+5001500US3405,3405,"Congressional District 5 (115th Congress), New Jersey",42.3,0.6,40.3,0.7,44.1,0.6
+5001500US3406,3406,"Congressional District 6 (115th Congress), New Jersey",37.6,0.6,36.4,0.7,38.9,0.7
+5001500US3407,3407,"Congressional District 7 (115th Congress), New Jersey",42.7,0.6,41.1,0.8,44.3,0.6
+5001500US3408,3408,"Congressional District 8 (115th Congress), New Jersey",35.0,0.5,34.2,0.7,35.5,0.5
+5001500US3409,3409,"Congressional District 9 (115th Congress), New Jersey",38.3,0.5,37.6,0.7,39.1,0.8
+5001500US3410,3410,"Congressional District 10 (115th Congress), New Jersey",35.3,0.6,33.6,0.5,36.7,0.7
+5001500US3411,3411,"Congressional District 11 (115th Congress), New Jersey",43.4,0.6,41.9,0.6,45.0,0.6
+5001500US3412,3412,"Congressional District 12 (115th Congress), New Jersey",39.4,0.7,38.1,0.8,40.7,0.9
+5001500US3501,3501,"Congressional District 1 (115th Congress), New Mexico",38.3,0.4,36.8,0.5,40.0,0.6
+5001500US3502,3502,"Congressional District 2 (115th Congress), New Mexico",36.6,0.5,35.1,0.5,38.1,0.6
+5001500US3503,3503,"Congressional District 3 (115th Congress), New Mexico",38.2,0.5,36.7,0.6,40.2,0.6
+5001500US3601,3601,"Congressional District 1 (115th Congress), New York",41.7,0.9,39.9,0.8,43.4,0.9
+5001500US3602,3602,"Congressional District 2 (115th Congress), New York",40.3,0.7,37.7,1.0,42.4,0.7
+5001500US3603,3603,"Congressional District 3 (115th Congress), New York",44.5,0.9,43.5,1.1,45.4,0.9
+5001500US3604,3604,"Congressional District 4 (115th Congress), New York",40.3,0.5,37.8,1.0,41.8,0.8
+5001500US3605,3605,"Congressional District 5 (115th Congress), New York",37.3,0.5,35.3,0.7,38.9,0.7
+5001500US3606,3606,"Congressional District 6 (115th Congress), New York",40.4,0.6,39.3,0.9,41.2,0.8
+5001500US3607,3607,"Congressional District 7 (115th Congress), New York",33.2,0.5,32.4,0.5,34.1,0.7
+5001500US3608,3608,"Congressional District 8 (115th Congress), New York",36.2,0.7,34.4,0.6,38.3,0.9
+5001500US3609,3609,"Congressional District 9 (115th Congress), New York",36.4,0.6,34.2,0.8,38.6,0.9
+5001500US3610,3610,"Congressional District 10 (115th Congress), New York",37.1,0.6,37.2,0.7,37.1,0.9
+5001500US3611,3611,"Congressional District 11 (115th Congress), New York",39.0,0.5,37.4,0.6,40.7,0.5
+5001500US3612,3612,"Congressional District 12 (115th Congress), New York",35.7,0.5,35.5,0.6,35.9,0.8
+5001500US3613,3613,"Congressional District 13 (115th Congress), New York",34.4,0.5,33.0,0.7,35.9,0.9
+5001500US3614,3614,"Congressional District 14 (115th Congress), New York",37.6,0.6,36.6,0.7,38.6,0.8
+5001500US3615,3615,"Congressional District 15 (115th Congress), New York",30.7,0.4,28.6,0.5,32.7,0.6
+5001500US3616,3616,"Congressional District 16 (115th Congress), New York",40.0,0.7,38.4,1.0,41.3,1.1
+5001500US3617,3617,"Congressional District 17 (115th Congress), New York",39.1,0.6,37.0,0.7,41.2,0.6
+5001500US3618,3618,"Congressional District 18 (115th Congress), New York",39.6,0.4,37.9,0.5,41.1,0.6
+5001500US3619,3619,"Congressional District 19 (115th Congress), New York",44.6,0.5,43.6,0.8,45.5,0.5
+5001500US3620,3620,"Congressional District 20 (115th Congress), New York",38.9,0.5,37.3,0.6,40.4,0.6
+5001500US3621,3621,"Congressional District 21 (115th Congress), New York",40.6,0.5,38.6,0.6,42.5,0.6
+5001500US3622,3622,"Congressional District 22 (115th Congress), New York",41.0,0.4,39.5,0.5,42.4,0.6
+5001500US3623,3623,"Congressional District 23 (115th Congress), New York",40.2,0.5,38.5,0.6,41.8,0.5
+5001500US3624,3624,"Congressional District 24 (115th Congress), New York",39.6,0.4,38.5,0.5,40.8,0.5
+5001500US3625,3625,"Congressional District 25 (115th Congress), New York",38.5,0.3,36.9,0.4,40.5,0.4
+5001500US3626,3626,"Congressional District 26 (115th Congress), New York",38.4,0.7,36.5,0.7,40.3,1.3
+5001500US3627,3627,"Congressional District 27 (115th Congress), New York",43.6,0.6,42.2,0.8,45.1,0.7
+5001500US3701,3701,"Congressional District 1 (115th Congress), North Carolina",38.0,0.6,36.4,0.6,39.8,0.8
+5001500US3702,3702,"Congressional District 2 (115th Congress), North Carolina",37.8,0.6,36.5,0.6,39.0,0.7
+5001500US3703,3703,"Congressional District 3 (115th Congress), North Carolina",37.2,0.7,34.5,0.9,39.6,0.8
+5001500US3704,3704,"Congressional District 4 (115th Congress), North Carolina",34.9,0.4,34.0,0.5,35.9,0.5
+5001500US3705,3705,"Congressional District 5 (115th Congress), North Carolina",40.5,0.3,39.2,0.4,42.1,0.5
+5001500US3706,3706,"Congressional District 6 (115th Congress), North Carolina",41.1,0.6,40.1,0.6,42.2,0.6
+5001500US3707,3707,"Congressional District 7 (115th Congress), North Carolina",42.1,0.4,40.8,0.7,43.3,0.6
+5001500US3708,3708,"Congressional District 8 (115th Congress), North Carolina",36.3,0.4,35.0,0.4,37.8,0.6
+5001500US3709,3709,"Congressional District 9 (115th Congress), North Carolina",39.0,0.5,37.7,0.7,40.0,0.6
+5001500US3710,3710,"Congressional District 10 (115th Congress), North Carolina",41.8,0.5,40.9,0.6,43.0,0.8
+5001500US3711,3711,"Congressional District 11 (115th Congress), North Carolina",45.3,0.3,42.8,0.6,47.3,0.8
+5001500US3712,3712,"Congressional District 12 (115th Congress), North Carolina",33.6,0.3,32.7,0.3,34.5,0.3
+5001500US3713,3713,"Congressional District 13 (115th Congress), North Carolina",39.5,0.5,38.8,0.7,40.1,0.7
+5001500US3800,3800,"Congressional District (at Large) (115th Congress), North Dakota",35.0,0.3,34.1,0.3,36.3,0.4
+5001500US3901,3901,"Congressional District 1 (115th Congress), Ohio",36.8,0.5,35.4,0.5,38.0,0.8
+5001500US3902,3902,"Congressional District 2 (115th Congress), Ohio",40.1,0.6,38.8,0.7,41.2,0.9
+5001500US3903,3903,"Congressional District 3 (115th Congress), Ohio",32.2,0.4,31.5,0.6,32.8,0.4
+5001500US3904,3904,"Congressional District 4 (115th Congress), Ohio",40.7,0.5,39.2,0.8,42.0,0.5
+5001500US3905,3905,"Congressional District 5 (115th Congress), Ohio",39.9,0.6,38.7,0.5,41.0,0.7
+5001500US3906,3906,"Congressional District 6 (115th Congress), Ohio",43.4,0.5,41.4,0.7,44.9,0.6
+5001500US3907,3907,"Congressional District 7 (115th Congress), Ohio",41.0,0.6,40.2,0.8,41.8,0.6
+5001500US3908,3908,"Congressional District 8 (115th Congress), Ohio",38.5,0.4,37.2,0.4,39.9,0.5
+5001500US3909,3909,"Congressional District 9 (115th Congress), Ohio",38.0,0.6,36.9,0.7,39.1,0.8
+5001500US3910,3910,"Congressional District 10 (115th Congress), Ohio",39.2,0.3,37.0,0.4,41.3,0.5
+5001500US3911,3911,"Congressional District 11 (115th Congress), Ohio",38.5,0.8,36.0,0.8,40.6,0.7
+5001500US3912,3912,"Congressional District 12 (115th Congress), Ohio",38.9,0.6,37.9,0.8,40.0,0.6
+5001500US3913,3913,"Congressional District 13 (115th Congress), Ohio",40.6,0.7,39.4,0.9,42.0,0.9
+5001500US3914,3914,"Congressional District 14 (115th Congress), Ohio",44.7,0.7,43.0,0.7,45.8,0.5
+5001500US3915,3915,"Congressional District 15 (115th Congress), Ohio",38.0,0.6,36.5,0.6,39.4,0.7
+5001500US3916,3916,"Congressional District 16 (115th Congress), Ohio",42.9,0.8,40.5,0.9,44.8,0.8
+5001500US4001,4001,"Congressional District 1 (115th Congress), Oklahoma",36.2,0.2,35.0,0.2,37.5,0.4
+5001500US4002,4002,"Congressional District 2 (115th Congress), Oklahoma",39.5,0.3,38.0,0.5,41.0,0.5
+5001500US4003,4003,"Congressional District 3 (115th Congress), Oklahoma",36.6,0.3,35.3,0.5,37.9,0.6
+5001500US4004,4004,"Congressional District 4 (115th Congress), Oklahoma",35.8,0.3,34.3,0.4,37.3,0.7
+5001500US4005,4005,"Congressional District 5 (115th Congress), Oklahoma",34.7,0.2,33.7,0.3,35.7,0.3
+5001500US4101,4101,"Congressional District 1 (115th Congress), Oregon",37.7,0.3,36.8,0.3,38.5,0.4
+5001500US4102,4102,"Congressional District 2 (115th Congress), Oregon",41.6,0.4,40.5,0.5,43.1,0.6
+5001500US4103,4103,"Congressional District 3 (115th Congress), Oregon",37.0,0.3,36.8,0.4,37.1,0.4
+5001500US4104,4104,"Congressional District 4 (115th Congress), Oregon",41.3,0.6,39.5,0.6,43.3,0.6
+5001500US4105,4105,"Congressional District 5 (115th Congress), Oregon",39.5,0.5,38.5,0.5,40.6,0.7
+5001500US4201,4201,"Congressional District 1 (115th Congress), Pennsylvania",33.7,0.7,32.5,1.0,34.9,0.7
+5001500US4202,4202,"Congressional District 2 (115th Congress), Pennsylvania",34.1,0.7,32.1,0.6,35.9,1.0
+5001500US4203,4203,"Congressional District 3 (115th Congress), Pennsylvania",43.3,0.5,41.4,0.5,44.9,0.5
+5001500US4204,4204,"Congressional District 4 (115th Congress), Pennsylvania",40.8,0.4,39.6,0.6,42.1,0.6
+5001500US4205,4205,"Congressional District 5 (115th Congress), Pennsylvania",40.6,0.4,39.3,0.5,42.2,0.7
+5001500US4206,4206,"Congressional District 6 (115th Congress), Pennsylvania",40.8,0.7,39.6,0.9,41.7,0.9
+5001500US4207,4207,"Congressional District 7 (115th Congress), Pennsylvania",42.6,0.6,40.6,1.1,44.0,0.7
+5001500US4208,4208,"Congressional District 8 (115th Congress), Pennsylvania",43.6,0.4,42.2,0.5,44.9,0.5
+5001500US4209,4209,"Congressional District 9 (115th Congress), Pennsylvania",43.5,0.5,41.6,0.6,45.1,0.4
+5001500US4210,4210,"Congressional District 10 (115th Congress), Pennsylvania",43.8,0.6,42.7,0.9,44.7,0.6
+5001500US4211,4211,"Congressional District 11 (115th Congress), Pennsylvania",42.5,0.8,40.9,0.9,44.3,0.7
+5001500US4212,4212,"Congressional District 12 (115th Congress), Pennsylvania",45.2,0.7,43.6,0.8,46.7,0.7
+5001500US4213,4213,"Congressional District 13 (115th Congress), Pennsylvania",37.7,0.7,35.9,0.8,39.4,0.9
+5001500US4214,4214,"Congressional District 14 (115th Congress), Pennsylvania",38.4,0.9,36.1,0.6,40.7,1.0
+5001500US4215,4215,"Congressional District 15 (115th Congress), Pennsylvania",40.3,0.6,39.0,0.8,41.6,0.8
+5001500US4216,4216,"Congressional District 16 (115th Congress), Pennsylvania",37.6,0.5,36.0,0.5,39.0,0.7
+5001500US4217,4217,"Congressional District 17 (115th Congress), Pennsylvania",42.2,0.7,39.8,0.7,44.8,0.7
+5001500US4218,4218,"Congressional District 18 (115th Congress), Pennsylvania",44.4,0.7,42.7,1.0,46.1,0.9
+5001500US4401,4401,"Congressional District 1 (115th Congress), Rhode Island",38.9,0.7,36.6,1.0,41.1,1.0
+5001500US4402,4402,"Congressional District 2 (115th Congress), Rhode Island",41.3,0.7,40.0,0.9,42.5,0.7
+5001500US4501,4501,"Congressional District 1 (115th Congress), South Carolina",38.6,0.5,37.1,0.7,40.1,0.6
+5001500US4502,4502,"Congressional District 2 (115th Congress), South Carolina",38.9,0.5,37.3,0.7,40.3,0.6
+5001500US4503,4503,"Congressional District 3 (115th Congress), South Carolina",39.5,0.5,37.9,0.5,41.1,0.9
+5001500US4504,4504,"Congressional District 4 (115th Congress), South Carolina",38.3,0.4,37.0,0.5,39.6,0.5
+5001500US4505,4505,"Congressional District 5 (115th Congress), South Carolina",40.3,0.5,38.4,0.9,41.7,0.6
+5001500US4506,4506,"Congressional District 6 (115th Congress), South Carolina",35.4,0.6,33.7,0.8,37.2,0.8
+5001500US4507,4507,"Congressional District 7 (115th Congress), South Carolina",43.0,0.5,41.8,0.6,44.3,0.5
+5001500US4600,4600,"Congressional District (at Large) (115th Congress), South Dakota",36.8,0.3,35.6,0.3,38.4,0.4
+5001500US4701,4701,"Congressional District 1 (115th Congress), Tennessee",43.2,0.4,41.4,0.9,45.0,0.3
+5001500US4702,4702,"Congressional District 2 (115th Congress), Tennessee",40.0,0.4,37.8,0.4,42.0,0.4
+5001500US4703,4703,"Congressional District 3 (115th Congress), Tennessee",41.7,0.5,39.8,0.6,43.6,0.5
+5001500US4704,4704,"Congressional District 4 (115th Congress), Tennessee",37.2,0.5,36.0,0.5,38.5,0.5
+5001500US4705,4705,"Congressional District 5 (115th Congress), Tennessee",34.8,0.1,34.2,0.2,35.4,0.2
+5001500US4706,4706,"Congressional District 6 (115th Congress), Tennessee",41.1,0.4,39.9,0.5,42.1,0.5
+5001500US4707,4707,"Congressional District 7 (115th Congress), Tennessee",37.7,0.5,36.5,0.4,38.9,0.5
+5001500US4708,4708,"Congressional District 8 (115th Congress), Tennessee",40.7,0.5,38.8,0.9,42.5,0.7
+5001500US4709,4709,"Congressional District 9 (115th Congress), Tennessee",33.6,0.4,32.2,0.5,35.0,0.6
+5001500US4801,4801,"Congressional District 1 (115th Congress), Texas",36.8,0.3,35.6,0.6,38.8,0.7
+5001500US4802,4802,"Congressional District 2 (115th Congress), Texas",35.0,0.7,33.6,0.9,36.4,0.7
+5001500US4803,4803,"Congressional District 3 (115th Congress), Texas",36.7,0.3,35.9,0.4,37.6,0.5
+5001500US4804,4804,"Congressional District 4 (115th Congress), Texas",39.6,0.6,38.0,0.8,40.8,0.6
+5001500US4805,4805,"Congressional District 5 (115th Congress), Texas",35.6,0.6,35.2,0.8,35.9,0.9
+5001500US4806,4806,"Congressional District 6 (115th Congress), Texas",35.2,0.9,33.9,1.0,36.4,0.9
+5001500US4807,4807,"Congressional District 7 (115th Congress), Texas",34.9,0.7,34.2,0.9,35.6,0.7
+5001500US4808,4808,"Congressional District 8 (115th Congress), Texas",37.2,0.5,36.3,1.0,38.0,0.6
+5001500US4809,4809,"Congressional District 9 (115th Congress), Texas",32.0,0.7,31.5,0.9,32.6,0.9
+5001500US4810,4810,"Congressional District 10 (115th Congress), Texas",35.8,0.6,35.1,0.7,36.4,0.9
+5001500US4811,4811,"Congressional District 11 (115th Congress), Texas",34.9,0.4,33.6,0.5,36.4,0.6
+5001500US4812,4812,"Congressional District 12 (115th Congress), Texas",35.7,0.7,34.4,0.9,37.1,0.9
+5001500US4813,4813,"Congressional District 13 (115th Congress), Texas",36.1,0.3,35.3,0.4,37.0,0.5
+5001500US4814,4814,"Congressional District 14 (115th Congress), Texas",36.6,0.4,36.1,0.5,37.2,0.6
+5001500US4815,4815,"Congressional District 15 (115th Congress), Texas",30.7,0.6,29.4,0.6,32.2,0.7
+5001500US4816,4816,"Congressional District 16 (115th Congress), Texas",32.1,0.4,30.2,0.4,34.0,0.5
+5001500US4817,4817,"Congressional District 17 (115th Congress), Texas",32.3,0.5,30.9,0.4,33.5,0.5
+5001500US4818,4818,"Congressional District 18 (115th Congress), Texas",32.4,0.6,30.9,1.0,33.7,0.8
+5001500US4819,4819,"Congressional District 19 (115th Congress), Texas",33.1,0.4,32.1,0.5,34.2,0.5
+5001500US4820,4820,"Congressional District 20 (115th Congress), Texas",32.2,0.7,31.0,0.6,33.7,0.8
+5001500US4821,4821,"Congressional District 21 (115th Congress), Texas",37.8,0.9,36.7,0.7,39.1,1.1
+5001500US4822,4822,"Congressional District 22 (115th Congress), Texas",35.8,0.6,35.0,0.8,36.5,0.8
+5001500US4823,4823,"Congressional District 23 (115th Congress), Texas",33.5,0.6,32.4,0.8,34.6,0.9
+5001500US4824,4824,"Congressional District 24 (115th Congress), Texas",35.6,0.7,34.5,0.7,36.6,0.8
+5001500US4825,4825,"Congressional District 25 (115th Congress), Texas",37.1,0.7,36.2,0.8,38.1,0.9
+5001500US4826,4826,"Congressional District 26 (115th Congress), Texas",35.2,0.4,34.9,0.5,35.5,0.6
+5001500US4827,4827,"Congressional District 27 (115th Congress), Texas",36.4,0.4,35.1,0.5,37.6,0.6
+5001500US4828,4828,"Congressional District 28 (115th Congress), Texas",31.4,0.8,30.0,0.8,32.9,0.8
+5001500US4829,4829,"Congressional District 29 (115th Congress), Texas",31.2,0.7,31.4,0.9,31.1,0.8
+5001500US4830,4830,"Congressional District 30 (115th Congress), Texas",33.0,0.9,31.3,1.2,34.3,0.8
+5001500US4831,4831,"Congressional District 31 (115th Congress), Texas",34.6,0.3,33.6,0.4,35.7,0.4
+5001500US4832,4832,"Congressional District 32 (115th Congress), Texas",35.2,0.5,34.4,0.8,35.8,0.7
+5001500US4833,4833,"Congressional District 33 (115th Congress), Texas",29.7,0.7,29.2,0.9,30.2,0.9
+5001500US4834,4834,"Congressional District 34 (115th Congress), Texas",32.3,0.5,30.7,0.6,34.0,0.9
+5001500US4835,4835,"Congressional District 35 (115th Congress), Texas",31.2,0.6,30.8,0.7,31.8,0.8
+5001500US4836,4836,"Congressional District 36 (115th Congress), Texas",36.5,0.7,35.5,1.0,37.4,0.8
+5001500US4901,4901,"Congressional District 1 (115th Congress), Utah",30.5,0.3,29.6,0.5,31.5,0.5
+5001500US4902,4902,"Congressional District 2 (115th Congress), Utah",33.2,0.5,32.6,0.6,34.0,0.6
+5001500US4903,4903,"Congressional District 3 (115th Congress), Utah",27.7,0.5,27.0,0.6,28.4,0.5
+5001500US4904,4904,"Congressional District 4 (115th Congress), Utah",31.0,0.5,30.5,0.6,31.4,0.7
+5001500US5000,5000,"Congressional District (at Large) (115th Congress), Vermont",43.1,0.3,41.7,0.5,44.4,0.3
+5001500US5101,5101,"Congressional District 1 (115th Congress), Virginia",39.3,0.5,38.3,0.6,40.5,0.9
+5001500US5102,5102,"Congressional District 2 (115th Congress), Virginia",35.9,0.4,33.7,0.5,38.3,0.7
+5001500US5103,5103,"Congressional District 3 (115th Congress), Virginia",34.4,0.4,32.5,0.5,36.4,0.7
+5001500US5104,5104,"Congressional District 4 (115th Congress), Virginia",37.5,0.6,36.0,0.7,39.2,1.0
+5001500US5105,5105,"Congressional District 5 (115th Congress), Virginia",42.7,0.6,41.1,1.0,44.2,0.8
+5001500US5106,5106,"Congressional District 6 (115th Congress), Virginia",40.3,0.6,39.2,0.6,41.5,0.8
+5001500US5107,5107,"Congressional District 7 (115th Congress), Virginia",39.9,0.5,39.0,0.6,40.9,0.7
+5001500US5108,5108,"Congressional District 8 (115th Congress), Virginia",36.1,0.3,35.7,0.4,36.4,0.4
+5001500US5109,5109,"Congressional District 9 (115th Congress), Virginia",43.0,0.4,40.9,0.6,44.7,0.4
+5001500US5110,5110,"Congressional District 10 (115th Congress), Virginia",37.9,0.5,36.7,0.5,38.7,0.5
+5001500US5111,5111,"Congressional District 11 (115th Congress), Virginia",36.9,0.5,36.2,0.7,37.5,0.7
+5001500US5301,5301,"Congressional District 1 (115th Congress), Washington",38.5,0.8,37.5,0.9,39.5,0.9
+5001500US5302,5302,"Congressional District 2 (115th Congress), Washington",38.2,0.7,37.2,0.9,39.4,0.6
+5001500US5303,5303,"Congressional District 3 (115th Congress), Washington",39.8,0.5,38.9,0.5,40.6,0.5
+5001500US5304,5304,"Congressional District 4 (115th Congress), Washington",34.0,0.3,33.2,0.4,34.7,0.4
+5001500US5305,5305,"Congressional District 5 (115th Congress), Washington",37.4,0.3,36.1,0.3,38.9,0.5
+5001500US5306,5306,"Congressional District 6 (115th Congress), Washington",41.6,0.9,39.7,1.1,43.9,0.9
+5001500US5307,5307,"Congressional District 7 (115th Congress), Washington",36.6,0.6,36.2,0.7,37.2,0.8
+5001500US5308,5308,"Congressional District 8 (115th Congress), Washington",38.0,0.6,37.6,0.7,38.3,0.8
+5001500US5309,5309,"Congressional District 9 (115th Congress), Washington",37.3,0.6,36.4,0.8,38.3,0.6
+5001500US5310,5310,"Congressional District 10 (115th Congress), Washington",36.1,0.5,34.5,0.6,37.9,0.8
+5001500US5401,5401,"Congressional District 1 (115th Congress), West Virginia",41.4,0.4,40.0,0.5,42.8,0.7
+5001500US5402,5402,"Congressional District 2 (115th Congress), West Virginia",42.6,0.5,41.7,0.6,43.4,0.6
+5001500US5403,5403,"Congressional District 3 (115th Congress), West Virginia",42.9,0.4,41.6,0.5,43.9,0.5
+5001500US5501,5501,"Congressional District 1 (115th Congress), Wisconsin",40.8,0.6,39.1,0.7,42.2,0.6
+5001500US5502,5502,"Congressional District 2 (115th Congress), Wisconsin",36.6,0.3,35.5,0.2,37.8,0.5
+5001500US5503,5503,"Congressional District 3 (115th Congress), Wisconsin",38.4,0.4,37.6,0.4,39.3,0.5
+5001500US5504,5504,"Congressional District 4 (115th Congress), Wisconsin",32.8,0.5,31.4,0.5,34.1,0.5
+5001500US5505,5505,"Congressional District 5 (115th Congress), Wisconsin",41.4,0.5,40.1,0.5,43.0,0.6
+5001500US5506,5506,"Congressional District 6 (115th Congress), Wisconsin",41.8,0.4,40.5,0.6,43.4,0.5
+5001500US5507,5507,"Congressional District 7 (115th Congress), Wisconsin",44.6,0.3,43.6,0.4,45.6,0.3
+5001500US5508,5508,"Congressional District 8 (115th Congress), Wisconsin",40.5,0.3,39.5,0.5,41.6,0.4
+5001500US5600,5600,"Congressional District (at Large) (115th Congress), Wyoming",37.2,0.4,36.6,0.6,37.8,0.5
+5001500US7298,7298,"Resident Commissioner District (at Large) (115th Congress), Puerto Rico",40.7,0.2,38.8,0.2,42.5,0.2
